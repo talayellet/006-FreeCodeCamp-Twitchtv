@@ -1,0 +1,75 @@
+{
+	"https://api.twitch.tv/kraken/channels/ESL_SC2": {
+		"id": 0,
+		"url": "https://wind-bow.gomix.me/twitch-api/streams/ESL_SC2?callback=?",
+		"imgSrc": "./images/esl_sc2.jpeg",
+		"imgAlt": "esl_sc2",
+		"name": "Esl Sc2",
+		"onlineData": null,
+		"info": null		
+	},
+	"https://api.twitch.tv/kraken/channels/OgamingSC2": {
+		"id": 1,
+		"url": "https://wind-bow.gomix.me/twitch-api/streams/OgamingSC2?callback=?",
+		"imgSrc": "./images/ogamingsc2.jpeg",
+		"imgAlt": "ogamingsc2",
+		"name": "Ogamingsc 2",
+		"onlineData": null,
+		"info": null
+	},
+	"https://api.twitch.tv/kraken/channels/cretetion": {
+		"id": 2,
+		"url": "https://wind-bow.gomix.me/twitch-api/streams/cretetion?callback=?",
+		"imgSrc": "./images/cretetion.jpeg",
+		"imgAlt": "cretetion",
+		"name": "Cretetion",
+		"onlineData": null,
+		"info": null
+	},
+	"https://api.twitch.tv/kraken/channels/freecodecamp": {
+		"id": 3,
+		"url": "https://wind-bow.gomix.me/twitch-api/streams/freecodecamp?callback=?",
+		"imgSrc": "./images/freecodecamp.png",
+		"imgAlt": "freecodecamp",
+		"name": "freeCodeCamp",
+		"onlineData": null,
+		"info": null
+	},
+	"https://api.twitch.tv/kraken/channels/storbeck": {
+		"id": 4,
+		"url": "https://wind-bow.gomix.me/twitch-api/streams/storbeck?callback=?",
+		"imgSrc": "./images/storbeck.jpeg",
+		"imgAlt": "storbeck",
+		"name": "Storbeck",
+		"onlineData": null,
+		"info": null
+	},
+	"https://api.twitch.tv/kraken/channels/habathcx": {
+		"id": 5,
+		"url": "https://wind-bow.gomix.me/twitch-api/streams/habathcx?callback=?",
+		"imgSrc": "./images/habathcx.jpeg",
+		"imgAlt": "habathcx",
+		"name": "Habathcx",
+		"onlineData": null,
+		"info": null
+	},
+	"https://api.twitch.tv/kraken/channels/RobotCaleb": {
+		"id": 6,
+		"url": "https://wind-bow.gomix.me/twitch-api/streams/RobotCaleb?callback=?",
+		"imgSrc": "./images/robotcaleb.png",
+		"imgAlt": "robotcaleb",
+		"name": "Robot Caleb",
+		"onlineData": null,
+		"info": null
+	},
+	"https://api.twitch.tv/kraken/channels/noobs2ninjas": {
+		"id": 7,
+		"url": "https://wind-bow.gomix.me/twitch-api/streams/noobs2ninjas?callback=?",
+		"imgSrc": "./images/noobs2ninjas.png",
+		"imgAlt": "noobs2ninjas",
+		"name": "Noobs 2 Ninjas",
+		"onlineData": null,
+		"info": null
+	}
+	
+}
